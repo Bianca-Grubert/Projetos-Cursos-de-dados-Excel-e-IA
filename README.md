@@ -1,5 +1,3 @@
-# Projetos-Cursos-de-dados-Excel-e-IA
-Projeto de simulador de Investimentos
 # 📊 Ferramenta de Análise de Investimentos em Excel
 
 ## 📌 Sobre o projeto
