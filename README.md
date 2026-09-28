@@ -8,6 +8,12 @@ A ferramenta permite realizar projeções a partir de diferentes parâmetros, au
 
 O projeto foi desenvolvido como parte de um desafio prático, permitindo aplicar conhecimentos de **Excel, matemática financeira, organização de dados e análise de investimentos**.
 
+ Demonstração da ferramenta
+
+Abaixo é apresentada uma visualização da ferramenta desenvolvida no Microsoft Excel:
+
+![Ferramenta de Análise de Investimentos](images/simulador-investimentos.png)
+
 ---
 
 ## 🎯 Objetivo
